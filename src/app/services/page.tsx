@@ -65,7 +65,7 @@ export default function Services() {
             Ready to grow your business?
           </h2>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-            Let's discuss how we can help you achieve your goals
+            Let&apos;s discuss how we can help you achieve your goals
           </p>
           <Button asChild size="lg">
             <Link href="/contact">Contact Us</Link>

@@ -6,7 +6,7 @@ export default function Blog() {
   return (
     <div className="bg-white">
       {/* Hero Section */}
-      <section className="relative bg-gray-900 text-white py-20">
+      <section className="relative bg-gradient-to-r from-blue-600 to-purple-600 text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">Our Blog</h1>
           <p className="text-xl mb-8 max-w-3xl mx-auto">

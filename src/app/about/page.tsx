@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className="bg-white">
       {/* Hero Section */}
-      <section className="relative bg-gray-900 text-white py-20">
+      <section className="relative bg-gradient-to-r from-blue-600 to-purple-600 text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
             About Our Agency
@@ -33,13 +33,13 @@ export default function About() {
               <p className="text-gray-600 mb-4">
                 Founded in 2011 by a group of passionate designers and
                 developers, Creative Agency started as a small studio with big
-                dreams. Over the years, we've grown into a full-service digital
-                agency serving clients across multiple industries.
+                dreams. Over the years, we&apos;ve grown into a full-service
+                digital agency serving clients across multiple industries.
               </p>
               <p className="text-gray-600 mb-6">
                 Our journey has been marked by innovation, dedication, and a
                 relentless focus on delivering exceptional results for our
-                clients. We've had the privilege of working with startups,
+                clients. We&apos;ve had the privilege of working with startups,
                 established businesses, and everything in between.
               </p>
             </div>
