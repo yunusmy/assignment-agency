@@ -89,7 +89,7 @@ const services = [
       "Content management system",
       "Ongoing maintenance",
     ],
-    image: "/web-design.jpg",
+    image: "/assets/web-design.jpg",
   },
   {
     title: "Digital Marketing",
@@ -102,7 +102,7 @@ const services = [
       "Email Marketing Campaigns",
       "Analytics & Reporting",
     ],
-    image: "/digital-marketing.jpg",
+    image: "/assets/digital-marketing.jpg",
   },
   {
     title: "Branding & Identity",
@@ -115,6 +115,6 @@ const services = [
       "Print collateral design",
       "Brand positioning",
     ],
-    image: "/branding.jpg",
+    image: "/assets/branding.png",
   },
 ];
