@@ -22,7 +22,7 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div className="relative h-96 rounded-lg overflow-hidden">
               <Image
-                src="/office-space.jpg"
+                src="/assets/office-space.jpg"
                 alt="Our office"
                 fill
                 className="object-cover"
@@ -31,7 +31,7 @@ export default function About() {
             <div>
               <h2 className="text-3xl font-bold mb-6">Our Story</h2>
               <p className="text-gray-600 mb-4">
-                Founded in 2015 by a group of passionate designers and
+                Founded in 2011 by a group of passionate designers and
                 developers, Creative Agency started as a small studio with big
                 dreams. Over the years, we've grown into a full-service digital
                 agency serving clients across multiple industries.
@@ -119,27 +119,27 @@ const values = [
 
 const teamMembers = [
   {
-    name: "Sarah Johnson",
+    name: "Kazi Nazrul Islam",
     position: "CEO & Founder",
     bio: "With over 15 years in the industry, Sarah leads our strategic vision.",
-    image: "/team-member1.jpg",
+    image: "/assets/team-member2.png",
   },
   {
-    name: "Michael Chen",
+    name: "Rabindranath Tagore",
     position: "Creative Director",
     bio: "Michael brings innovative design solutions to every project.",
-    image: "/team-member2.jpg",
+    image: "/assets/team-member2.png",
   },
   {
-    name: "Emily Rodriguez",
+    name: "Zainul Abedin",
     position: "Lead Developer",
     bio: "Emily ensures our technical solutions are robust and scalable.",
-    image: "/team-member3.jpg",
+    image: "/assets/team-member2.png",
   },
   {
-    name: "David Kim",
+    name: "Sir Jagadish Chandra Bose",
     position: "Marketing Director",
     bio: "David crafts strategies that drive real business growth.",
-    image: "/team-member4.jpg",
+    image: "/assets/team-member2.png",
   },
 ];

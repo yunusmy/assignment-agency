@@ -41,7 +41,7 @@ export default function Home() {
                 key={index}
                 className="bg-gray-50 p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow"
               >
-                <div className="text-blue-600 mb-4">
+                <div className="text-blue-600 mb-4 text-center">
                   <service.icon className="h-8 w-8" />
                 </div>
                 <h3 className="text-xl font-semibold mb-3">{service.title}</h3>
@@ -79,7 +79,7 @@ export default function Home() {
             </div>
             <div className="relative h-80 rounded-lg overflow-hidden">
               <Image
-                src="/team-meeting.jpg"
+                src="/assets/team-meeting.jpg"
                 alt="Team meeting"
                 fill
                 className="object-cover"

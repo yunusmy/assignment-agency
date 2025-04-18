@@ -117,11 +117,11 @@ const blogPosts = [
     date: "May 15, 2024",
     category: "Web Design",
     slug: "future-of-web-design-2024",
-    image: "/web-design-trends.jpg",
+    image: "/assets/web-design-trends.jpg",
     author: {
       name: "Michael Chen",
       role: "Creative Director",
-      image: "/team-member2.jpg",
+      image: "/assets/team-member2.png",
     },
   },
   {
@@ -131,11 +131,11 @@ const blogPosts = [
     date: "April 28, 2024",
     category: "Digital Marketing",
     slug: "seo-strategies-ecommerce",
-    image: "/ecommerce-seo.jpg",
+    image: "/assets/ecommerce-seopng.png",
     author: {
       name: "David Kim",
       role: "Marketing Director",
-      image: "/team-member4.jpg",
+      image: "/assets/team-member2.png",
     },
   },
   {
@@ -145,11 +145,11 @@ const blogPosts = [
     date: "April 10, 2024",
     category: "Branding",
     slug: "building-brand-identity",
-    image: "/brand-identity.jpg",
+    image: "/assets/brand-identity.jpg",
     author: {
       name: "Sarah Johnson",
       role: "CEO & Founder",
-      image: "/team-member1.jpg",
+      image: "/assets/team-member2.png",
     },
   },
 ];
